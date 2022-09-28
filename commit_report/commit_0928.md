@@ -9,9 +9,13 @@ train - validation set으로 나눠 train으로 학습 후 validation으로 검�
 모델 성능 측정
 
 accuracy_score
+
 precision
+
 recall
+
 f1 score : 대회 성능 평가 지표
+
 auc score
 
 -> save_data 함수를 통해 변수별 중요도표 저장 (in score folder)
