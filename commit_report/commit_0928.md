@@ -1,6 +1,7 @@
 [2022.09.28] 베이스라인 모델 (SVC-Bagging)
 
 스케일링 : StandardScaler
+
 카테고리형 변수 OneHotEncoder(sparse=False)
 
 train - validation set으로 나눠 train으로 학습 후 validation으로 검증
